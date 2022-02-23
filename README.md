@@ -1,24 +1,9 @@
-# video-handler
+# 项目简介
 
-## Project setup
-```
-npm install
-```
+本项目使用 Canvas 实现了动态识别视频中的绿幕，并将其替换为一张固定的图片的效果。
+项目源自：https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Manipulating_video_using_canvas
+这篇文章，本项目使用 Vue3 将其改写
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 如何运行
+$ npm install
+$ npm run serve
