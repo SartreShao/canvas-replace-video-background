@@ -5,5 +5,5 @@
 这篇文章，本项目使用 Vue3 将其改写
 
 # 如何运行
-$ npm install
+$ npm install 
 $ npm run serve
